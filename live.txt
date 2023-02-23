@@ -1,0 +1,283 @@
+﻿😻YY影院,#genre#
+YY电影1,http://106.53.212.251/daili/yy.php?id=1354930887
+YY电影1,http://106.53.212.251/daili/yy.php?id=1354792118
+YY电影2,http://data.3g.yy.com/live/hls/1382749948/1382749948
+YY电影2,http://data.3g.yy.com/live/hls/1382745114/1382745114
+YY电影3,http://data.3g.yy.com/live/hls/1382745089/1382745089
+YY电影3,http://data.3g.yy.com/live/hls/1354931577/1354931577
+YY电影4,http://data.3g.yy.com/live/hls/1354888736/1354888736
+YY电影5,http://106.53.212.251/daili/yy.php?id=1456829119
+YY电影5,http://data.3g.yy.com/live/hls/1351537467/1351537467
+YY电影6,http://data.3g.yy.com/live/hls/1382764593/1382764593
+YY电影7,http://data.3g.yy.com/live/hls/1382736857/1382736857
+YY电影8,http://data.3g.yy.com/live/hls/1354936231/1354936231
+YY电影9,http://data.3g.yy.com/live/hls/1355497884/1355497884
+YY电影10,http://data.3g.yy.com/live/hls/1461931969/1461931969
+YY电影11,http://data.3g.yy.com/live/hls/1353587611/1353587611
+YY电影12,http://data.3g.yy.com/live/hls/1382672478/1382672478
+YY电影13,http://data.3g.yy.com/live/hls/1382747628/1382747628
+YY电影14,http://data.3g.yy.com/live/hls/1382749917/1382749917
+YY电影15,http://data.3g.yy.com/live/hls/1382749948/1382749948
+YY电影16,http://data.3g.yy.com/live/hls/29170933/29170933
+YY电影17,http://data.3g.yy.com/live/hls/74613175/74613175
+YY电影18,http://data.3g.yy.com/live/hls/1354952229/1354952229
+YY电影19,http://data.3g.yy.com/live/hls/1454587259/1454587259
+YY电影20,http://data.3g.yy.com/live/hls/1354790899/1354790899
+YY电影21,http://data.3g.yy.com/live/hls/1382745115/1382745115
+YY电影22,http://data.3g.yy.com/live/hls/26623173/26623173
+YY电影23,http://data.3g.yy.com/live/hls/1354930209/1354930209
+YY电影24,http://data.3g.yy.com/live/hls/1354930204/1354930204
+YY电影25,http://data.3g.yy.com/live/hls/38498680/38498680
+YY电影26,http://data.3g.yy.com/live/hls/1355364378/1355364378
+YY电影27,http://data.3g.yy.com/live/hls/33897188/33897188
+YY电影28,http://data.3g.yy.com/live/hls/1343000940/1343000940
+YY电影29,http://data.3g.yy.com/live/hls/1460913377/1460913377
+YY电影30,http://data.3g.yy.com/live/hls/1353059120/1353059120
+💥Bili影院,#genre#
+Bili电影1,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+Bili电影2,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+Bili电影3,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+Bili电影4,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/675031/live_102569357_4797059_1500.m3u8
+Bili电影5,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/243132/live_400392_6822511_1500.m3u8
+Bili电影6,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/177241/live_22989278_9714011_1500.m3u8
+Bili电影7,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/808927/live_334056_8894439_1500.m3u8
+Bili电影8,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/254639/live_6799268_5326808_1500.m3u8
+Bili电影9,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/409401/live_244139258_5651295_1500.m3u8
+Bili电影10,https://cn-hnly-cu-01-23.bilivideo.com/live-bvc/309069/live_259210907_7512103_1500.m3u8
+Bili电影11,https://cn-jsyz-ct-03-30.bilivideo.com/live-bvc/829261/live_267080268_2685930.m3u8
+Bili电影12,https://cn-jsyz-ct-03-12.bilivideo.com/live-bvc/349709/live_398716361_54305482_1500.m3u8
+Bili电影13,https://cn-sdyt-cu-01-20.bilivideo.com/live-bvc/704167/live_416544064_58389145_1500.m3u8
+Bili电影14,https://cn-cq-ct-01-15.bilivideo.com/live-bvc/863916/live_541254336_34068493_1500.m3u8
+Bili电影15,https://cn-sdyt-cu-01-20.bilivideo.com/live-bvc/380610/live_601642179_33754427.m3u8
+Bili电影16,https://cn-hbyc-ct-02-17.bilivideo.com/live-bvc/967389/live_14659392_8620418_1500.m3u8
+Bili电影17,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/483200/live_404366751_52074579_1500.m3u8
+Bili电影18,https://cn-jsyz-ct-03-11.bilivideo.com/live-bvc/779476/live_1529740688_73558440_1500.m3u8
+Bili电影19,https://cn-jsyz-ct-03-23.bilivideo.com/live-bvc/641643/live_595044057_16935602_1500.m3u8
+Bili电影20,https://cn-hbyc-ct-02-18.bilivideo.com/live-bvc/725622/live_1141145300_87247375_1500.m3u8
+Bili电影21,https://cn-cq-ct-01-06.bilivideo.com/live-bvc/978936/live_252582133_1552126_1500.m3u8
+Bili电影22,https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/937793/live_130169686_9900556_1500.m3u8
+Bili电影23,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/995154/live_358692633_85160807_1500.m3u8
+Bili电影24,https://cn-hnld-ct-01-05.bilivideo.com/live-bvc/516857/live_420351661_73320656_1500.m3u8
+Bili电影25,https://cn-hbyc-ct-02-16.bilivideo.com/live-bvc/550119/live_88547185_8335137.m3u8
+Bili电影26,https://cn-hnld-ct-01-24.bilivideo.com/live-bvc/758631/live_474877797_63811292.m3u8
+Bili电影27,https://cn-hnld-ct-01-28.bilivideo.com/live-bvc/818952/live_406288782_21283001_1500.m3u8
+Bili电影28,https://cn-jsyz-ct-03-08.bilivideo.com/live-bvc/342819/live_254092207_66111565_1500.m3u8
+Bili电影29,http://42.56.91.136/live-bvc/605386/live_253594980_82555506.m3u8
+Bili电影29,http://42.56.91.136/live-bvc/345402/live_98583136_44829102_1500.m3u8
+Bili电影30,http://epg.112114.xyz/douyu/4246519
+Bili电影30,http://106.53.212.251/daili/yy.php?id=1355104118
+Bili电影30,https://cn-hnly-cu-01-10.bilivideo.com/live-bvc/347439/live_23601856_2325061.m3u8
+🐬斗鱼影院,#genre#
+斗鱼电影1,http://121.51.249.101/hlstct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG.m3u8
+斗鱼电影2,http://epg.112114.xyz/douyu/20415
+斗鱼电影3,http://epg.112114.xyz/douyu/85894
+斗鱼电影4,http://epg.112114.xyz/douyu/122402
+斗鱼电影5,http://epg.112114.xyz/douyu/8770422
+斗鱼电影6,http://epg.112114.xyz/douyu/431460
+斗鱼电影7,http://epg.112114.xyz/douyu/52787
+斗鱼电影8,http://epg.112114.xyz/douyu/218859
+斗鱼电影9,http://epg.112114.xyz/douyu/5033502
+斗鱼电影10,http://epg.112114.xyz/douyu/9650887
+斗鱼电影11,http://epg.112114.xyz/douyu/315457
+斗鱼电影12,http://epg.112114.xyz/douyu/263824
+斗鱼电影13,http://epg.112114.xyz/douyu/248753
+斗鱼电影14,http://epg.112114.xyz/douyu/5423
+斗鱼电影15,http://epg.112114.xyz/douyu/323876
+斗鱼电影26,http://epg.112114.xyz/douyu/74374
+斗鱼电影17,http://epg.112114.xyz/douyu/2935323
+斗鱼电影18,http://epg.112114.xyz/douyu/96577
+斗鱼电影19,http://epg.112114.xyz/douyu/434971
+斗鱼电影20,http://epg.112114.xyz/douyu/747764
+斗鱼电影21,http://epg.112114.xyz/douyu/3637778
+斗鱼电影22,http://epg.112114.xyz/douyu/4332
+斗鱼电影23,http://epg.112114.xyz/douyu/7254536
+斗鱼电影24,http://epg.112114.xyz/douyu/3637765
+斗鱼电影25,http://epg.112114.xyz/douyu/6537888
+斗鱼电影26,http://epg.112114.xyz/douyu/252802
+斗鱼电影26,http://epg.112114.xyz/douyu/3637726
+斗鱼电影27,http://epg.112114.xyz/douyu/6079455
+斗鱼电影27,http://epg.112114.xyz/douyu/59612
+斗鱼电影28,http://epg.112114.xyz/douyu/6566671
+斗鱼电影28,http://epg.112114.xyz/douyu/8861179
+斗鱼电影29,http://epg.112114.xyz/douyu/36337
+斗鱼电影29,http://epg.112114.xyz/douyu/308752
+斗鱼电影30,http://epg.112114.xyz/douyu/9651304
+斗鱼电影30,http://epg.112114.xyz/douyu/9275635
+🐯虎牙影院,#genre#
+雍正王朝,http://121.51.52.16/tx.hls.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.m3u8
+康熙王朝,http://121.51.52.16/tx.hls.huya.com/huyalive/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8
+水浒传,http://106.53.212.251/daili/yy.php?id=1462331139
+水浒传,http://121.51.52.16/tx.hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
+新三国,http://121.51.52.16/tx.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
+新三国,http://121.51.52.16/tx.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
+神探狄仁杰,http://106.53.212.251/daili/yy.php?id=1351755386
+神探狄仁杰,http://106.53.212.251/daili/yy.php?id=1461133588
+大宋提刑官,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/249032/live_454035186_65211790_1500.m3u8
+大宋提刑官,http://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/293462/live_62955203_3768172.m3u8
+康熙私访记,http://121.51.52.16/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8
+神医喜来乐,http://121.51.52.16/tx.hls.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.m3u8
+铁齿铜牙纪晓岚,http://121.51.52.16/tx.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8
+新白娘子传奇,http://106.53.212.251/daili/yy.php?id=1354930969
+济公传,http://106.53.212.251/daili/yy.php?id=25519088
+闯关东,http://106.53.212.251/daili/yy.php?id=1353215589
+闯关东,http://epg.112114.xyz/douyu/8787737
+白鹿原,http://121.51.52.16/tx.hls.huya.com/huyalive/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8
+中国通史,http://121.51.52.16/tx.hls.huya.com/src/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.m3u8
+品三国,http://121.51.52.16/tx.hls.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.m3u8
+美食纪录,http://121.51.52.16/tx.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1.m3u8
+动物世界,http://121.51.52.16/tx.hls.huya.com/huyalive/1099531752797-1099531752797-86436307026313216-2199063629050-10057-A-0-1.m3u8
+动物世界,http://121.51.52.16/tx.hls.huya.com/src/1199619828230-1199619828230-5686333316022665216-2399239779916-10057-A-0-1.m3u8
+动物世界,http://epg.112114.xyz/douyu/4360438
+小沫沫oO,http://epg.112114.xyz/douyu/4837387
+小沫沫oO,http://epg.112114.xyz/douyu/9808720
+美丽自然,http://121.51.52.16/tx.hls.huya.com/src/1199563517421-1199563517421-5444480232956362752-2399127158298-10057-A-0-1.m3u8
+美丽自然,http://epg.112114.xyz/douyu/3485629
+伍阿哥美食,http://121.51.52.16/tx.hls.huya.com/src/2270184154-2270184154-9750366697327427584-4540491764-10057-A-0-1.m3u8
+滇西小哥,http://epg.112114.xyz/douyu/3243427
+华农兄弟,http://121.51.52.16/tx.hls.huya.com/src/1199524299626-1199524299626-5276041086010130432-2399048722708-10057-A-0-1.m3u8
+农村小纯,http://121.51.52.16/tx.hls.huya.com/src/1259527829018-1259527829018-4734820437291171840-2519055781492-10057-A-0-1.m3u8
+湘西老刘,http://121.51.52.16/tx.hls.huya.com/src/1199530537976-1199530537976-5302834595241132032-2399061199408-10057-A-0-1.m3u8
+山村胖哥,http://121.51.52.16/tx.hls.huya.com/src/1279517866516-1279517866516-16804401442176630784-2559035856488-10057-A-0-1.m3u8
+乡间小路,http://121.51.52.16/tx.hls.huya.com/src/1199564878882-1199564878882-5450327663426142208-2399129881220-10057-A-0-1.m3u8
+湘妹洋子,http://121.51.52.16/tx.hls.huya.com/src/1199556125061-1199556125061-5412730288516104192-2399112373578-10057-A-0-1.m3u8
+创业小哥,http://121.51.52.16/tx.hls.huya.com/huyalive/1199531305845-1199531305845-5306132567483744256-2399062735146-10057-A-0-1.m3u8
+荒野求生,http://121.51.52.16/tx.hls.huya.com/src/2335308508-2335308508-10030073667930554368-4670740472-10057-A-0-1.m3u8
+荒野求生,http://epg.112114.xyz/douyu/454867
+荒野求生,http://epg.112114.xyz/douyu/1473221
+荒野求生,http://epg.112114.xyz/douyu/4933183
+荒野求生,http://epg.112114.xyz/douyu/1052924
+荒野求生,http://epg.112114.xyz/douyu/1339207
+音乐歌榜,http://121.51.52.16/tx.hls.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1.m3u8
+音乐歌榜,http://121.51.52.16/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
+斯诺克,http://121.51.52.16/tx.hls.huya.com/src/1099531739818-1099531739818-86380562645778432-2199063603092-10057-A-0-1.m3u8
+斯诺克,http://121.51.52.16/tx.hls.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.m3u8
+🌎综合频道,#genre#
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤風中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
+无线新闻,http://103.214.71.71:1632/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://120.84.96.78:808/hls/25/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+寰宇新闻,http://2023.stream-link.org/playlist/global_news.flv
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw.flv
+寰宇新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+纬来体育,http://123.51.230.108:18509/playlist.m3u8
+纬来体育,http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.m3u8
+三立新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=9
+三立新闻,http://2023.stream-link.org/playlist/set_news.flv
+三立新闻,http://2023.stream-link.org/playlist/set_news+.flv
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=3	
+民视新闻台,http://123.51.230.108:18663/playlist.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX News, http://line.premiumpowers.net:80/Manuel/1234567/941685
+Fox News,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061330
+CNN News,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044473
+CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN News,http://193.77.203.201:10217/CNN/index.m3u8
+Nat Geo,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+Nat Geo,http://line.premiumpowers.net:80/Manuel/1234567/941664
+Nat Geo Wild,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+Discovery Channel,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
+Discovery Channel,http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942
+Animal Planet,http://103.68.63.37:8278/animalplanet_twn/playlist.m3u8
+Animal Planet,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
+Animal Planet,http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917
+BBC Earth,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12098/index.m3u8
+BBC Earth,http://line.premiumpowers.net:80/Manuel/1234567/941667
+BBC Earth,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+A3BIKINI,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+Eurosport,http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
+Eurosport,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+ESPN HD,http://123.30.146.172:21585/625/mpegts
+Music India,http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9414
+Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+Music India,http://14.199.164.20:4001/play/a0mt/index.m3u8
+Kadak His,https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+Kadak Hits,http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/14150
+HBO Hits,http://103.68.63.37:8278/hbohead_twn/playlist.m3u8
+HBO Family,http://103.68.63.37:8278/fyi_twn/playlist.m3u8
+🔥地方频道,#genre#
+湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
+湖南都市,http://stream.guihet.com/t/hunan.php?id=346
+深圳都市,http://157.122.177.10:9901/tsfile/live/1004_1.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+四川新闻,http://221.237.38.145:8000/udp/239.93.0.47:5140
+四川新闻,http://121.51.249.6/livehkkp.chinamcache.com/live/SCTV-4H265_4000.m3u8
+四川新闻,http://liveauth.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8	
+河南公共,http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv8
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+广西都市,http://111.59.189.40:8445/tsfile/live/1027_1.m3u8
+浙江民生,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
+广东新闻,http://nsszds.f3322.net:808/hls/28/index.m3u8
+广东新闻,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw	
+安徽公共,http://223.247.88.45:8888/udp/238.1.79.43:4456
+中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
+求索纪录,http://171.88.47.209:4022/udp/239.93.42.24:5140
+金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A=&IASHttpSessionId=OTT?zhund
+金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+金鹰纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221226198/index.m3u8?zhund
+金鹰纪实,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8
+北京纪实,http://yfsl.vsd.gehua.net.cn/live/BTV3_800.m3u8
+北京纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京纪实,http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+全纪实,http://112.25.48.69/live/program/live/qjshd/4000000/mnf.m3u8
+精品纪录,http://39.134.115.163:8080/TVOD/88888910/224/3221225710/index.m3u8
+精品纪录,http://117.169.121.162:6610/PLTV/88888910/224/3221225710/index.m3u8
+农业致富,http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
+农业致富,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+劲爆体育,http://121.51.52.16/livehkkp.chinamcache.com/live/lqhxjcHDH265_4000.m3u8
+劲爆体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225767/index.m3u8?世界杯WorldCup
+超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8?世界杯WorldCup
+超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+游戏风云,http://112.25.48.69/live/program/live/yxfyhd/4000000/mnf.m3u8
+四海钓鱼,http://121.51.249.6/livehkkp.chinamcache.com/live/shdy_4000.m3u8		
+四海钓鱼,http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYuHD_2000.m3u8
+网络棋牌,http://111.59.189.40:8445/tsfile/live/1019_1.m3u8
+网络棋牌,http://113.64.147.4:808/hls/106/index.m3u8		
+网络棋牌,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qipai/__op/default/__f//index.m3u8
+天元围棋,http://121.51.249.6/livehkkp.chinamcache.com/live/tywq_2000.m3u8	
+天元围棋,http://bytedance.live.cqccn.com/__cl/cg:live/__c/weiqi/__op/default/__f//index.m3u8
+环球旅游,http://bytedance.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
+环球旅游,http://171.110.62.85:8181/tsfile/live/1085_1.m3u8
+环球奇观,http://113.64.147.4:808/hls/110/index.m3u8
+中华特产,http://171.110.62.85:8181/tsfile/live/1045_1.m3u8	
+🌹XG频道_168,#genre#
+一本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+三本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8	
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8	
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8	
+松视2欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8	
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8	
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8	
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8	
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8	
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8	
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8	
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8	
+欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8	
+欧美5,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8	
+欧美7,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8	
+欧美8,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8	
+欧美9,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8	
+欧美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+Adult 18+,http://cdn.adultiptv.net/bigass.m3u8	
+		
